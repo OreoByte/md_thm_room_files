@@ -1,0 +1,17 @@
+---
+title: "Full Name Exam Report"
+author: ["name", "test number if needed"]
+date: "yyyy-dd-mm"
+subject: "Markdown"
+keywords: [Markdown, Example]
+subtitle: "Something Exam Report"
+lang: "en"
+titlepage: true
+titlepage-color: "483D8B"
+titlepage-text-color: "FFFAFA"
+titlepage-rule-color: "FFFAFA"
+titlepage-rule-height: 2
+book: true
+classoption: oneside
+code-block-font-size: \scriptsize
+---
