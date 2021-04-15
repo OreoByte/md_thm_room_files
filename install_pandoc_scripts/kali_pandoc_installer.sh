@@ -11,3 +11,6 @@ sudo apt install texlive-fonts-recommended texlive-fonts-extra -y
 
 # install requirements to convert from markdown to pdf
 sudo apt install texlive-xetex -y
+
+# install a simple markdown gui editor
+sudo apt install retext -y
